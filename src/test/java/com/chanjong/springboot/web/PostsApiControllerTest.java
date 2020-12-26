@@ -1,4 +1,4 @@
-package com.chanjong.springboot.web.dto;
+package com.chanjong.springboot.web;
 
 import com.chanjong.springboot.domain.posts.Posts;
 import com.chanjong.springboot.domain.posts.PostsRepository;
