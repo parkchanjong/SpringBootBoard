@@ -6,3 +6,7 @@ application-oauth.properties
 
 [bB]uild/
 out
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/test/.DS_Store
